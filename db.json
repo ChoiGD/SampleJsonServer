@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1json-server",
+      "author": "ChoiGD1"
+    },
+    {
+      "id": 2,
+      "title": "2json-server",
+      "author": "ChoiGd2"
+    },
+    {
+      "title": "Test....",
+      "author": "tester",
+      "id": 10
+    },
+    {
+      "title": "Test....",
+      "author": "tester",
+      "id": 11
+    },
+    {
+      "title": "Test....",
+      "author": "tester",
+      "id": 12
+    },
+    {
+      "title": "aaaa",
+      "author": "bbb",
+      "id": 13
+    },
+    {
+      "title": "AA",
+      "author": "BB",
+      "id": 14
+    },
+    {
+      "title": "aaa",
+      "author": "bbb",
+      "id": 15
+    },
+    {
+      "title": "ccc",
+      "author": "bbb",
+      "id": 16
+    },
+    {
+      "title": "dddd",
+      "author": "bbb",
+      "id": 17
+    },
+    {
+      "title": "easefsef",
+      "author": "bbb",
+      "id": 18
+    },
+    {
+      "title": "레츠기륏",
+      "author": "ChoiGD",
+      "id": 19
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "store": [
+    {
+      "id": 1,
+      "lat": 37.5717245,
+      "lng": 126.9833305,
+      "sname": "샤오바오우육면"
+    },
+    {
+      "id": 2,
+      "lat": 37.5717245,
+      "lng": 126.984908,
+      "sname": "맥도날드"
+    },
+    {
+      "id": 3,
+      "lat": 37.5694101,
+      "lng": 126.9855719,
+      "sname": "갓덴스시 종각점"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "price": 1000,
+      "pname": "상품1"
+    },
+    {
+      "id": 2,
+      "price": 2000,
+      "pname": "상품2"
+    },
+    {
+      "id": 3,
+      "price": 3000,
+      "pname": "상품3"
+    },
+    {
+      "id": 4,
+      "price": 4000,
+      "pname": "상품4"
+    },
+    {
+      "id": 5,
+      "price": 5000,
+      "pname": "상품5"
+    },
+    {
+      "id": 6,
+      "price": 6000,
+      "pname": "상품6"
+    },
+    {
+      "id": 7,
+      "price": 7000,
+      "pname": "상품7"
+    },
+    {
+      "id": 8,
+      "price": 8000,
+      "pname": "상품8"
+    },
+    {
+      "id": 9,
+      "price": 9000,
+      "pname": "상품9"
+    }
+  ]
+}
